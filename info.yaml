@@ -11,7 +11,10 @@ project:
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
-
+  # REQUIRED FIELDS
+  project_id:   "tt_um_SHIVAMVERMAID_test_TT_git"
+  top_module:   "tt_um_SHIVAMVERMAID_test_TT_git"
+  
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
